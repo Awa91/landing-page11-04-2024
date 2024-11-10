@@ -1,0 +1,32 @@
+{
+    "hero":{
+        "title":"Trouvez l'emploi de vos rêves",
+        "subtitle":"Des emplois et des talents indépendants à portée de main",
+        "description":"Connectez-vous avec les meilleurs freelances et clients sur notre plateforme ! Trouvez votre partenaire idéal pour votre prochain projet.",
+        "quantifier":"Plus de",
+        "figure":"12800",
+        "statement":"freelances pour réaliser vos projets",
+        "cardFigure":"30",
+        "cardStatement":"Personnes ont été embauchées"
+        
+    
+    },
+    "section": [
+        {
+            "title": "Some title",
+            "subtitle": "Some subtitle",
+            "description": "Some description"    
+        },
+        {
+            "title": "Some title 1",
+            "subtitle": "Some subtitle 1",
+            "description": "Some description 1"    
+        },
+        {
+            "title": "Some title 2",
+            "subtitle": "Some subtitle 2",
+            "description": "Some description 2"    
+        }
+    ]
+
+}
